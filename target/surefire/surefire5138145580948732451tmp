@@ -1,0 +1,6 @@
+#surefire
+#Thu Feb 25 20:15:25 CET 2016
+user.dir=/Users/berndhopp/src/tree-sample
+idea.version=15.0.2
+localRepository=/Users/berndhopp/.m2/repository
+basedir=/Users/berndhopp/src/tree-sample

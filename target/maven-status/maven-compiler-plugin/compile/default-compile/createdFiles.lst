@@ -1,0 +1,16 @@
+de/vaadin/sample/components/SampleTree.class
+de/vaadin/sample/components/TreeB.class
+de/vaadin/sample/data/TreeExpander.class
+de/vaadin/sample/MyUI.class
+de/vaadin/sample/data/NodeContainer.class
+de/vaadin/sample/data/TreeExpanderB.class
+de/vaadin/sample/data/NodeContainerA.class
+de/vaadin/sample/db/domain/Node.class
+de/vaadin/sample/RedirectingView.class
+de/vaadin/sample/cdi/SampleModule.class
+de/vaadin/sample/components/TreeA.class
+de/vaadin/sample/MyUI$MyUIServlet.class
+de/vaadin/sample/db/dao/NodeDao.class
+de/vaadin/sample/cdi/PersistServiceInitializer.class
+de/vaadin/sample/data/TreeExpanderA.class
+de/vaadin/sample/data/NodeContainerB.class
